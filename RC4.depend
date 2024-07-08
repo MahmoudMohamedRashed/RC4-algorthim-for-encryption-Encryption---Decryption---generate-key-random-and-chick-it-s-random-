@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1712079820 source:c:\users\ftmbd_000\desktop\rc4\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
+1712051022 source:c:\users\mahmo\downloads\rc4 group2\rc4 group2\rc4\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
